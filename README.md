@@ -11,6 +11,7 @@ This lab was to explain the process of installing Visual Studio, and creating a 
 
 
 ### Software Design Methodology: 
+The procedure of this design was to use iostream to output strings to the console. (using std::cout << "(string here)"
 
 ### Results: 
 **Initial Hello World program**
