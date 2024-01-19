@@ -19,7 +19,5 @@ The procedure of this design was to use iostream to output strings to the consol
 <br/><br/>
 **Modified face output**
 ![](./Images/output2.png)
-### Conclusion and Discussion: 
-
-Appendix A 
-Include any source code here.
+### Conclusion and Discussion:
+The takeaway of this lab was to learn how the basic labs work, how to install and create a Visual Studio project, and the basic functionalities of input and output in c++ using the iostream library.
