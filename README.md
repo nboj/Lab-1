@@ -27,3 +27,6 @@ The procedure of this design was to use iostream to output strings to the consol
 <br/>
 ### Conclusion and Discussion:
 The takeaway of this lab was to learn how the basic labs work, how to install and create a Visual Studio project, and the basic functionalities of input and output in c++ using the iostream library.
+
+
+SOURCE CODE APPENDIX:
