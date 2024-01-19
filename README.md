@@ -31,4 +31,4 @@ The takeaway of this lab was to learn how the basic labs work, how to install an
 
 SOURCE CODE APPENDIX:<br/>
 [Initial Hello World](./Auman_Hello) <br/>
-[Initial Hello World](./ex1.4) 
+[With Face](./ex1.4) 
